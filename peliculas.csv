@@ -1,0 +1,537 @@
+﻿id,year,pelicula,premios,nominaciones,pais
+1,1980,Ordinary People,4,6,Estados Unidos
+2,1980,Raging Bull,2,8,Estados Unidos
+3,1980,Tess,3,6,Reino Unido
+4,1980,Coal Miner's Daughter,1,7,Estados Unidos
+5,1980,The Elephant Man,0,8,Reino Unido
+6,1980,American Gigolo,0,2,Estados Unidos
+7,1980,Kramer vs. Kramer,5,9,Estados Unidos
+8,1980,All That Jazz,4,9,Estados Unidos
+9,1980,Breaking Away,2,5,Estados Unidos
+10,1980,Apocalypse Now,2,8,Estados Unidos
+11,1981,Ordinary People,4,4,Estados Unidos
+12,1981,Raging Bull,2,8,Estados Unidos
+13,1981,Coal Miner's Daughter,1,7,Estados Unidos
+14,1981,The Elephant Man,0,8,Reino Unido
+15,1981,Tess,0,6,Reino Unido
+16,1981,Apocalypse Now,2,8,Estados Unidos
+17,1981,Kramer vs. Kramer,5,9,Estados Unidos
+18,1981,Breaking Away,2,5,Estados Unidos
+19,1981,All That Jazz,4,9,Estados Unidos
+20,1982,Gandhi,8,11,Reino Unido
+21,1982,Tootsie,1,10,Estados Unidos
+22,1982,Missing,1,4,Estados Unidos
+23,1982,E.T. the Extra-Terrestrial,4,9,Estados Unidos
+24,1982,An Officer and a Gentleman,0,6,Estados Unidos
+25,1982,Victor/Victoria,1,7,Reino Unido
+26,1982,Sophie's Choice,2,5,Estados Unidos
+27,1982,The Verdict,0,5,Estados Unidos
+28,1982,The Dresser,0,5,Reino Unido
+29,1982,Moonlighting,0,3,Estados Unidos
+30,1983,Gandhi,8,11,Reino Unido
+31,1983,Tootsie,1,10,Estados Unidos
+32,1983,E.T. the Extra-Terrestrial,4,9,Estados Unidos
+33,1983,Missing,1,4,Estados Unidos
+34,1983,An Officer and a Gentleman,0,6,Estados Unidos
+35,1983,Victor/Victoria,1,7,Reino Unido
+36,1983,Sophie's Choice,2,5,Estados Unidos
+37,1983,The Verdict,0,5,Estados Unidos
+38,1983,The Dresser,0,5,Reino Unido
+39,1983,The Dresser,0,5,Reino Unido
+40,1984,Terms of Endearment,5,11,Estados Unidos
+41,1984,Tender Mercies,2,5,Estados Unidos
+42,1984,The Right Stuff,4,8,Estados Unidos
+43,1984,Silkwood,0,5,Estados Unidos
+44,1984,The Dresser,0,5,Reino Unido
+45,1984,The Big Chill,0,3,Estados Unidos
+46,1984,Fanny and Alexander,4,6,Suecia
+47,1984,Zelig,0,2,Estados Unidos
+48,1984,The Year of Living Dangerously,0,1,Australia
+49,1984,The Year of Living Dangerously,0,1,Australia
+50,1985,Amadeus,8,11,Estados Unidos
+51,1985,The Killing Fields,3,7,Reino Unido
+52,1985,A Passage to India,2,11,Reino Unido
+53,1985,Places in the Heart,2,7,Estados Unidos
+54,1985,A Soldier's Story,1,3,Estados Unidos
+55,1985,The Natural,0,4,Estados Unidos
+56,1985,The Killing Fields,3,7,Reino Unido
+57,1985,The Killing Fields,3,7,Reino Unido
+58,1985,The Killing Fields,3,7,Reino Unido
+59,1985,The Killing Fields,3,7,Reino Unido
+60,1986,Out of Africa,7,11,Estados Unidos
+61,1986,The Color Purple,0,11,Estados Unidos
+62,1986,Kiss of the Spider Woman,1,4,Brasil
+63,1986,Prizzi's Honor,1,8,Estados Unidos
+64,1986,The Official Story,2,5,Argentina
+65,1986,Kiss of the Spider Woman,1,4,Brasil
+66,1986,Kiss of the Spider Woman,1,4,Brasil
+67,1986,Kiss of the Spider Woman,1,4,Brasil
+68,1986,Kiss of the Spider Woman,1,4,Brasil
+69,1986,Kiss of the Spider Woman,1,4,Brasil
+70,1987,Platoon,4,8,Estados Unidos
+71,1987,A Room with a View,3,8,Reino Unido
+72,1987,Hannah and Her Sisters,3,7,Estados Unidos
+73,1987,Children of a Lesser God,1,5,Estados Unidos
+74,1987,The Mission,1,7,Reino Unido
+75,1987,Hoosiers,0,2,Estados Unidos
+76,1987,Blue Velvet,0,1,Estados Unidos
+77,1987,Salvador,0,2,Estados Unidos
+78,1987,Stand by Me,0,1,Estados Unidos
+79,1987,Aliens,2,7,Reino Unido
+80,1988,The Last Emperor,9,9,Reino Unido
+81,1988,Moonstruck,3,6,Estados Unidos
+82,1988,Broadcast News,0,7,Estados Unidos
+83,1988,Hope and Glory,2,5,Reino Unido
+84,1988,A Cry in the Dark,0,1,Australia
+85,1988,A Cry in the Dark,0,1,Australia
+86,1988,A Cry in the Dark,0,1,Australia
+87,1988,A Cry in the Dark,0,1,Australia
+88,1988,A Cry in the Dark,0,1,Australia
+89,1988,A Cry in the Dark,0,1,Australia
+90,1988,My Life as a Dog,0,2,Suecia
+91,1988,The Dead,0,2,Reino Unido
+92,1988,The Dead,0,2,Reino Unido
+93,1989,Rain Man,4,8,Estados Unidos
+94,1989,Mississippi Burning,1,7,Estados Unidos
+95,1989,Dangerous Liaisons,3,7,Estados Unidos
+96,1989,A Fish Called Wanda,1,3,Reino Unido
+97,1989,Working Girl,1,6,Estados Unidos
+98,1989,The Accidental Tourist,1,4,Estados Unidos
+99,1989,Cinema Paradiso,1,1,Italia
+100,1989,Bagdad Café,0,3,Alemania Occidental
+101,1989,The Unbearable Lightness of Being,0,2,Estados Unidos
+102,1989,Women on the Verge of a Nervous Breakdown,0,1,España
+103,1990,Dances with Wolves,7,12,Estados Unidos
+104,1990,Goodfellas,1,6,Estados Unidos
+105,1990,The Godfather Part III,1,7,Estados Unidos
+106,1990,Awakenings,0,3,Estados Unidos
+107,1990,Ghost,2,5,Estados Unidos
+108,1990,The Hunt for Red October,1,3,Estados Unidos
+109,1990,My Left Foot,2,5,Irlanda
+110,1990,Edward Scissorhands,0,1,Estados Unidos
+111,1990,Postcards from the Edge,0,2,Estados Unidos
+112,1990,Reversal of Fortune,1,3,Estados Unidos
+113,1991,The Silence of the Lambs,5,7,Estados Unidos
+114,1991,Beauty and the Beast,2,6,Estados Unidos
+115,1991,JFK,2,8,Estados Unidos
+116,1991,Bugsy,2,10,Estados Unidos
+117,1991,The Prince of Tides,0,7,Estados Unidos
+118,1991,The Fisher King,1,5,Estados Unidos
+119,1991,Thelma & Louise,1,6,Estados Unidos
+120,1991,Hook,0,5,Estados Unidos
+121,1991,The Addams Family,0,1,Estados Unidos
+122,1991,City Slickers,0,2,Estados Unidos
+123,1992,Unforgiven,4,9,Estados Unidos
+124,1992,The Crying Game,1,6,Reino Unido
+125,1992,A Few Good Men,0,4,Estados Unidos
+126,1992,Howards End,2,9,Reino Unido
+127,1992,Scent of a Woman,1,4,Estados Unidos
+128,1992,A River Runs Through It,0,3,Estados Unidos
+129,1992,The Player,0,3,Estados Unidos
+130,1992,The Last of the Mohicans,0,1,Estados Unidos
+131,1992,Chaplin,0,3,Estados Unidos
+132,1992,Malcolm X,0,2,Estados Unidos
+133,1993,Schindler's List,7,12,Estados Unidos
+134,1993,The Fugitive,1,7,Estados Unidos
+135,1993,The Piano,3,8,Nueva Zelanda
+136,1993,In the Name of the Father,0,7,Irlanda
+137,1993,The Remains of the Day,0,8,Reino Unido
+138,1993,Philadelphia,2,5,Estados Unidos
+139,1993,The Age of Innocence,1,5,Estados Unidos
+140,1993,Shadowlands,0,2,Reino Unido
+141,1993,What's Love Got to Do with It,1,2,Estados Unidos
+142,1993,Six Degrees of Separation,0,1,Estados Unidos
+143,1994,Forrest Gump,6,13,Estados Unidos
+144,1994,Pulp Fiction,1,7,Estados Unidos
+145,1994,The Shawshank Redemption,0,7,Estados Unidos
+146,1994,Four Weddings and a Funeral,0,2,Reino Unido
+147,1994,Nell,0,1,Estados Unidos
+148,1994,Quiz Show,0,4,Estados Unidos
+149,1994,Bullets Over Broadway,1,7,Estados Unidos
+150,1994,Little Women,1,3,Estados Unidos
+151,1994,The Madness of King George,1,4,Reino Unido
+152,1994,Legends of the Fall,0,3,Estados Unidos
+153,1995,Braveheart,5,10,Estados Unidos
+154,1995,Apollo 13,2,9,Estados Unidos
+155,1995,Sense and Sensibility,1,7,Reino Unido
+156,1995,Babe,1,7,Australia
+157,1995,Il Postino: The Postman,1,5,Italia
+158,1995,The Usual Suspects,2,2,Estados Unidos
+159,1995,Dead Man Walking,1,4,Estados Unidos
+160,1995,Nixon,0,4,Estados Unidos
+161,1995,Cry the Beloved Country,0,2,Estados Unidos
+162,1995,Casino,0,1,Estados Unidos
+163,1996,The English Patient,9,12,Estados Unidos
+164,1996,Fargo,2,7,Estados Unidos
+165,1996,Shine,1,7,Australia
+166,1996,Evita,1,5,Estados Unidos
+167,1996,Secrets & Lies,0,5,Reino Unido
+168,1996,Jerry Maguire,1,5,Estados Unidos
+169,1996,The People vs. Larry Flynt,0,2,Estados Unidos
+170,1996,Breaking the Waves,1,1,Reino Unido
+171,1996,The Birdcage,1,1,Estados Unidos
+172,1996,Hamlet,0,4,Estados Unidos
+173,1997,Titanic,11,14,Estados Unidos
+174,1997,Good Will Hunting,2,9,Estados Unidos
+175,1997,As Good as It Gets,2,7,Estados Unidos
+176,1997,L.A. Confidential,2,9,Estados Unidos
+177,1997,The Full Monty,0,4,Reino Unido
+178,1997,Amistad,0,4,Estados Unidos
+179,1997,Men in Black,0,3,Estados Unidos
+180,1997,The Sweet Hereafter,0,2,Canadá
+181,1997,Boogie Nights,0,3,Estados Unidos
+182,1997,Kundun,0,4,Estados Unidos
+183,1998,Shakespeare in Love,7,13,Reino Unido
+184,1998,Saving Private Ryan,5,11,Estados Unidos
+185,1998,Life Is Beautiful,3,7,Italia
+186,1998,The Thin Red Line,1,7,Estados Unidos
+187,1998,Elizabeth,1,7,Reino Unido
+188,1998,Gods and Monsters,1,3,Estados Unidos
+189,1998,A Simple Plan,0,2,Estados Unidos
+190,1998,Out of Sight,0,2,Estados Unidos
+191,1998,Primary Colors,0,2,Estados Unidos
+192,1998,The Truman Show,3,3,Estados Unidos
+193,1999,American Beauty,5,8,Estados Unidos
+194,1999,The Sixth Sense,0,6,Estados Unidos
+195,1999,The Insider,0,7,Estados Unidos
+196,1999,The Green Mile,4,4,Estados Unidos
+197,1999,The Cider House Rules,2,7,Estados Unidos
+198,1999,The Talented Mr. Ripley,0,5,Estados Unidos
+199,1999,The Matrix,4,4,Estados Unidos
+200,1999,Boys Don't Cry,1,2,Estados Unidos
+201,1999,The End of the Affair,0,2,Estados Unidos
+202,1999,Being John Malkovich,0,3,Estados Unidos
+203,2000,Gladiator,5,12,Estados Unidos
+204,2000,Tigre y dragón,4,10,Hong Kong
+205,2000,Erin Brockovich,1,5,Estados Unidos
+206,2000,Traffic,4,5,Estados Unidos
+207,2000,Chocolat,1,5,Reino Unido
+208,2000,Almost Famous,1,4,Estados Unidos
+209,2000,Finding Forrester,0,1,Estados Unidos
+210,2000,Requiem for a Dream,0,1,Estados Unidos
+211,2000,Snatch: cerdos y diamantes,0,1,Reino Unido
+212,2000,Bailando en la oscuridad,1,1,Dinamarca
+213,2000,Gladiador,5,12,Estados Unidos
+214,2000,Erin Brockovich,1,5,Estados Unidos
+215,2000,Traffic,4,5,Estados Unidos
+216,2000,Chocolat,1,5,Reino Unido
+217,2000,Almost Famous,1,4,Estados Unidos
+218,2001,El señor de los anillos: La comunidad del anillo,4,13,Nueva Zelanda
+219,2000,Almost Famous,1,4,Estados Unidos
+220,2001,El señor de los anillos: La comunidad del anillo,4,13,Nueva Zelanda
+221,2001,Moulin Rouge!,2,8,Estados Unidos
+222,2001,La habitación del hijo,1,6,Italia
+223,2001,A Beautiful Mind,4,8,Estados Unidos
+224,2001,El pianista,3,7,Polonia
+225,2001,Black Hawk derribado,2,4,Estados Unidos
+226,2001,Training Day,1,2,Estados Unidos
+227,2001,A.I. Inteligencia artificial,1,2,Estados Unidos
+228,2001,El Diario de Bridget Jones,0,3,Reino Unido
+229,2001,Shrek,1,2,Estados Unidos
+230,2001,Harry Potter y la piedra filosofal,0,3,Reino Unido
+231,2001,La otra hija,0,1,Estados Unidos
+232,2002,Chicago,6,13,Estados Unidos
+233,2002,Gangs of New York,0,10,Italia
+234,2002,El Señor de los Anillos: Las Dos Torres,2,6,Nueva Zelanda
+235,2002,El Pianista,3,7,Polonia
+236,2002,Adaptation,0,4,Estados Unidos
+237,2002,8 millas,1,1,Estados Unidos
+238,2002,La habitación del hijo,1,6,Italia
+239,2002,El Ladrón de Orquídeas,1,4,Estados Unidos
+240,2002,About Schmidt,2,2,Estados Unidos
+241,2002,El Chico,1,2,Reino Unido
+242,2002,El Crimen del Padre Amaro,1,1,México
+243,2002,Todos dicen I love you,1,1,Estados Unidos
+244,2002,Scooby-Doo,0,1,Estados Unidos
+245,2002,Bend it Like Beckham,0,1,Reino Unido
+246,2003,El señor de los anillos: el retorno del rey,11,11,Nueva Zelanda
+247,2003,Master and Commander: Al otro lado del mundo,2,10,Estados Unidos
+248,2003,Seabiscuit,1,7,Estados Unidos
+249,2003,Piratas del Caribe: La maldición del Perla Negra,1,5,Estados Unidos
+250,2003,La lista de Schindler,7,12,Estados Unidos
+251,2003,Mystic River,2,6,Estados Unidos
+252,2003,Lost in Translation,1,4,Estados Unidos
+253,2003,Cold Mountain,1,7,Estados Unidos
+254,2003,La terminal,0,3,Estados Unidos
+255,2003,Hulk,0,1,Estados Unidos
+256,2003,Underworld,0,1,Estados Unidos
+257,2003,American Splendor,0,1,Estados Unidos
+258,2003,Love Actually,0,2,Reino Unido
+259,2003,28 Days Later,0,2,Reino Unido
+260,2004,El aviador,5,11,Estados Unidos
+261,2004,Mi vida sin mí,0,1,Canadá
+262,2004,Finding Neverland,1,7,Reino Unido
+263,2004,Colateral,0,2,Estados Unidos
+264,2004,Million Dollar Baby,4,7,Estados Unidos
+265,2004,Hotel Rwanda,0,3,Reino Unido
+266,2004,Ray,2,6,Estados Unidos
+267,2004,Kill Bill: Volumen 2,0,2,Estados Unidos
+268,2004,Eternal Sunshine of the Spotless Mind,1,2,Estados Unidos
+269,2004,Lemony Snicket's A Series of Unfortunate Events,0,1,Estados Unidos
+270,2004,Finding Neverland,1,7,Reino Unido
+271,2004,Closer,0,1,Estados Unidos
+272,2004,Vera Drake,0,3,Reino Unido
+273,2004,The Motorcycle Diaries,0,1,Estados Unidos
+274,2004,Shrek 2,0,2,Estados Unidos
+275,2005,Brokeback Mountain,3,8,Estados Unidos
+276,2005,La novia cadáver,1,1,Estados Unidos
+277,2005,Capote,1,5,Estados Unidos
+278,2005,Crash,3,6,Estados Unidos
+279,2005,Good Night and Good Luck,0,6,Estados Unidos
+280,2005,El jardín de la alegría,0,1,India
+281,2005,King Kong,3,4,Estados Unidos
+282,2005,Walk the Line,1,5,Estados Unidos
+283,2005,Munich,4,5,Estados Unidos
+284,2005,A History of Violence,0,2,Estados Unidos
+285,2005,Match Point,0,1,Reino Unido
+286,2005,Capote,1,5,Estados Unidos
+287,2005,Syriana,1,2,Estados Unidos
+288,2005,Pride & Prejudice,0,4,Reino Unido
+289,2005,Batman Begins,1,2,Estados Unidos
+290,2006,Babel,1,7,Estados Unidos
+291,2006,El laberinto del fauno,3,6,España
+292,2006,The Departed,4,5,Estados Unidos
+293,2006,Letters from Iwo Jima,1,4,Estados Unidos
+294,2006,The Queen,1,6,Reino Unido
+295,2006,United 93,2,2,Estados Unidos
+296,2006,The Last King of Scotland,1,2,Reino Unido
+297,2006,The Pursuit of Happyness,0,1,Estados Unidos
+298,2006,The Lives of Others,1,1,Alemania
+299,2006,El Nuevo Mundo,0,1,Estados Unidos
+300,2006,La sombra del actor,0,1,Estados Unidos
+301,2006,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,1,1,Estados Unidos
+302,2006,Little Miss Sunshine,2,4,Estados Unidos
+303,2006,Apocalypto,0,1,Estados Unidos
+304,2006,Volver,1,1,España
+305,2007,Juno,1,4,Estados Unidos
+306,2007,No Country for Old Men,4,8,Estados Unidos
+307,2007,There Will Be Blood,2,8,Estados Unidos
+308,2007,La joven del agua,0,1,Estados Unidos
+309,2007,The Assassination of Jesse James by the Coward Robert Ford,0,2,Estados Unidos
+310,2007,La vida en rosa,2,3,Francia
+311,2007,Atonement,1,7,Reino Unido
+312,2007,Michael Clayton,1,7,Estados Unidos
+313,2007,Ratatouille,1,5,Estados Unidos
+314,2007,Eastern Promises,1,1,Reino Unido
+315,2007,Into the Wild,0,2,Estados Unidos
+316,2007,Lars and the Real Girl,0,1,Estados Unidos
+317,2007,There Will Be Blood,2,8,Estados Unidos
+318,2007,El asesinato de Jesse James por el cobarde Robert Ford,0,2,Estados Unidos
+319,2007,La brújula dorada,1,1,Reino Unido
+320,2008,El curioso caso de Benjamin Button,3,13,Estados Unidos
+321,2008,Slumdog Millonaire,8,10,Reino Unido
+322,2008,El Caballero de la Noche,2,8,Estados Unidos
+323,2008,El Luchador,2,2,Estados Unidos
+324,2008,Milk,2,8,Estados Unidos
+325,2008,Frost/Nixon,2,5,Estados Unidos
+326,2008,El lector,1,5,Estados Unidos
+327,2008,Revolutionary Road,0,3,Estados Unidos
+328,2008,Gran Torino,0,1,Estados Unidos
+329,2008,The Wrestler,1,2,Estados Unidos
+330,2008,Slumdog Millionaire,8,10,Reino Unido
+331,2008,The Dark Knight,2,8,Estados Unidos
+332,2008,Vicky Cristina Barcelona,1,3,Estados Unidos
+333,2008,The Reader,1,5,Estados Unidos
+334,2008,WALL-E,1,6,Estados Unidos
+335,2009,Avatar,3,9,Estados Unidos
+336,2009,En tierra hostil,6,9,Estados Unidos
+337,2009,The Hurt Locker,6,9,Estados Unidos
+338,2009,Up,2,5,Estados Unidos
+339,2009,Up in the Air,0,6,Estados Unidos
+340,2009,Inglourious Basterds,1,8,Estados Unidos
+341,2009,District 9,0,4,Estados Unidos
+342,2009,The Blind Side,1,2,Estados Unidos
+343,2009,An Education,0,3,Reino Unido
+344,2009,Precious,2,6,Estados Unidos
+345,2009,An Education,0,3,Reino Unido
+346,2009,A Serious Man,0,2,Estados Unidos
+347,2009,Crazy Heart,2,3,Estados Unidos
+348,2009,Fantastic Mr. Fox,0,2,Estados Unidos
+349,2009,A Single Man,0,1,Estados Unidos
+350,2010,El discurso del rey,4,12,Reino Unido
+351,2010,Valor de ley,0,10,Estados Unidos
+352,2010,Origen,4,8,Estados Unidos
+353,2010,The Social Network,3,8,Estados Unidos
+354,2010,The Fighter,2,7,Estados Unidos
+355,2010,Toy Story 3,2,5,Estados Unidos
+356,2010,127 horas,0,6,Estados Unidos
+357,2010,El origen,4,8,Estados Unidos
+358,2010,Cisne negro,1,5,Estados Unidos
+359,2010,The Kids Are All Right,0,4,Estados Unidos
+360,2010,The King's Speech,4,12,Reino Unido
+361,2010,The Town,0,1,Estados Unidos
+362,2010,Blue Valentine,0,1,Estados Unidos
+363,2010,Winter's Bone,0,4,Estados Unidos
+364,2010,Alice in Wonderland,2,2,Estados Unidos
+365,2011,The Artist,5,10,Francia
+366,2011,El árbol de la vida,3,3,Estados Unidos
+367,2011,Hugo,5,11,Estados Unidos
+368,2011,War Horse,2,6,Reino Unido
+369,2011,The Descendants,1,5,Estados Unidos
+370,2011,Los descendientes,1,5,Estados Unidos
+371,2011,Moneyball,0,6,Estados Unidos
+372,2011,The Help,1,4,Estados Unidos
+373,2011,Medianoche en París,1,4,Estados Unidos
+374,2011,The Iron Lady,2,4,Reino Unido
+375,2011,My Week with Marilyn,0,2,Reino Unido
+376,2011,The Ides of March,0,1,Estados Unidos
+377,2011,The Girl with the Dragon Tattoo,0,5,Estados Unidos
+378,2011,Tinker Tailor Soldier Spy,0,3,Reino Unido
+379,2011,Albert Nobbs,0,3,Reino Unido
+380,2012,Argo,3,7,Estados Unidos
+381,2012,La vida de Pi,4,11,Estados Unidos
+382,2012,Los miserables,3,8,Reino Unido
+383,2012,Lincoln,2,12,Estados Unidos
+384,2012,Zero Dark Thirty,1,5,Estados Unidos
+385,2012,Django sin cadenas,2,5,Estados Unidos
+386,2012,El lado bueno de las cosas,1,8,Estados Unidos
+387,2012,Beasts of the Southern Wild,0,4,Estados Unidos
+388,2012,Amor,1,5,Francia
+389,2012,La noche más oscura,1,5,Estados Unidos
+390,2012,El exótico hotel Marigold,0,2,Reino Unido
+391,2012,La caza,0,1,Dinamarca
+392,2012,Los juegos del hambre,0,1,Estados Unidos
+393,2012,Anna Karenina,0,4,Reino Unido
+394,2012,La invención de Hugo,5,11,Estados Unidos
+395,2013,12 años de esclavitud,3,9,Estados Unidos
+396,2013,Gravity,7,10,Reino Unido
+397,2013,El lobo de Wall Street,1,5,Estados Unidos
+398,2013,American Hustle,0,10,Estados Unidos
+399,2013,Her,1,5,Estados Unidos
+400,2013,Capitán Phillips,0,6,Estados Unidos
+401,2013,Philomena,0,4,Reino Unido
+402,2013,Nebraska,0,6,Estados Unidos
+403,2013,Dallas Buyers Club,3,6,Estados Unidos
+404,2013,Blue Jasmine,1,3,Estados Unidos
+405,2013,La gran estafa americana,0,10,Estados Unidos
+406,2013,La vida secreta de Walter Mitty,0,2,Estados Unidos
+407,2013,La ladrona de libros,0,1,Estados Unidos
+408,2013,Mandela: Long Walk to Freedom,0,1,Reino Unido
+409,2013,Frozen,2,2,Estados Unidos
+410,2014,Birdman,4,9,Estados Unidos
+411,2014,El Gran Hotel Budapest,4,9,Estados Unidos
+412,2014,Boyhood,1,6,Estados Unidos
+413,2014,Whiplash,3,5,Estados Unidos
+414,2014,El francotirador,1,6,Estados Unidos
+415,2014,La teoría del todo,1,5,Reino Unido
+416,2014,Selma,1,2,Estados Unidos
+417,2014,La imitación del rey,1,8,Reino Unido
+418,2014,El código enigma,1,8,Reino Unido
+419,2014,American Sniper,1,6,Estados Unidos
+420,2014,Nightcrawler,0,1,Estados Unidos
+421,2014,Foxcatcher,0,5,Estados Unidos
+422,2014,Perdida,1,1,Estados Unidos
+423,2014,Interestelar,1,5,Estados Unidos
+424,2015,Birdman,4,9,Estados Unidos
+425,2015,El Renacido,3,12,Estados Unidos
+426,2015,Spotlight,2,6,Estados Unidos
+427,2015,La gran apuesta,1,5,Estados Unidos
+428,2015,El puente de los espías,1,6,Estados Unidos
+429,2015,La habitación,1,4,Canadá
+430,2015,Brooklyn,0,3,Reino Unido
+431,2015,La chica danesa,1,6,Reino Unido
+432,2015,Marte,0,7,Estados Unidos
+433,2015,Sicario,0,3,Estados Unidos
+434,2015,Carol,0,6,Reino Unido
+435,2015,La gran apuesta,1,5,Estados Unidos
+436,2015,Creed: La leyenda de Rocky,0,1,Estados Unidos
+437,2015,The Danish Girl,1,6,Reino Unido
+438,2015,Ex Machina,1,1,Reino Unido
+439,2015,La gran apuesta,1,5,Estados Unidos
+440,2015,Puente de Espías,1,6,Estados Unidos
+441,2016,Moonlight,3,8,Estados Unidos
+442,2016,La La Land,6,14,Estados Unidos
+443,2016,Manchester frente al mar,2,6,Estados Unidos
+444,2016,Hasta el último hombre,2,6,Estados Unidos
+445,2016,Fences,1,4,Estados Unidos
+446,2016,Lion,2,6,Australia
+447,2016,La llegada,1,8,Estados Unidos
+448,2016,Moonlight,3,8,Estados Unidos
+449,2016,La ciudad de las estrellas (La La Land),6,14,Estados Unidos
+450,2016,Hell or High Water,0,4,Estados Unidos
+451,2016,Talentos ocultos,1,3,Estados Unidos
+452,2016,Arrival,1,8,Estados Unidos
+453,2016,El bebé de Bridget Jones,0,1,Reino Unido
+454,2016,Un camino a casa,1,6,Estados Unidos
+455,2016,Lion,2,6,Australia
+456,2016,Moonlight,3,8,Estados Unidos
+457,2017,La forma del agua,4,13,Estados Unidos
+458,2017,Dunkerque,3,8,Reino Unido
+459,2017,Tres anuncios en las afueras,2,7,Reino Unido
+460,2017,Lady Bird,0,5,Estados Unidos
+461,2017,Llámame por tu nombre,1,4,Italia
+462,2017,El instante más oscuro,2,6,Reino Unido
+463,2017,Los archivos del Pentágono,0,2,Estados Unidos
+464,2017,Phantom Thread,1,6,Reino Unido
+465,2017,El hilo invisible,1,6,Reino Unido
+466,2017,The Shape of Water,4,13,Estados Unidos
+467,2017,Las horas más oscuras,2,6,Reino Unido
+468,2017,Loving Vincent,1,1,Polonia
+469,2017,El sacrificio de un ciervo sagrado,0,1,Reino Unido
+470,2017,Call Me by Your Name,1,4,Italia
+471,2017,La batalla de los sexos,0,2,Estados Unidos
+472,2017,Mudbound,0,4,Estados Unidos
+473,2017,Icarus,1,1,Estados Unidos
+474,2017,All the Money in the World,0,1,Estados Unidos
+475,2017,Logan,0,1,Estados Unidos
+476,2018,Green Book,3,5,Estados Unidos
+477,2018,Bohemian Rhapsody,4,5,Estados Unidos
+478,2018,Roma,3,10,México
+479,2018,Ha nacido una estrella,1,8,Estados Unidos
+480,2018,Black Panther,3,7,Estados Unidos
+481,2018,La favorita,1,10,Reino Unido
+482,2018,Vice,1,8,Estados Unidos
+483,2018,Infiltrado del Kkklan,1,6,Estados Unidos
+484,2018,Blackkklansman,1,6,Estados Unidos
+485,2018,Green Book,3,5,Estados Unidos
+486,2018,La favorita,1,10,Reino Unido
+487,2018,Bohemian Rhapsody,4,5,Estados Unidos
+488,2018,Ha nacido una estrella,1,8,Estados Unidos
+489,2018,Infiltrado del Kkklan,1,6,Estados Unidos
+490,2018,Vice,1,8,Estados Unidos
+491,2019,Parasite,4,6,Corea del Sur
+492,2019,1917,3,10,Reino Unido
+493,2019,Joker,2,11,Estados Unidos
+494,2019,Once Upon a Time in Hollywood,2,10,Estados Unidos
+495,2019,Ford v Ferrari,2,4,Estados Unidos
+496,2019,Jojo Rabbit,1,6,Estados Unidos
+497,2019,El Irlandés,1,10,Estados Unidos
+498,2019,Mujercitas,1,6,Estados Unidos
+499,2019,Parásitos,4,6,Corea del Sur
+500,2019,Le Mans '66,2,4,Estados Unidos
+500,2019,Bohemian Rhapsody,4,5,Estados Unidos
+501,2019,Roma,3,10,México
+502,2019,Black Panther,3,7,Estados Unidos
+503,2019,The Favourite,1,10,Reino Unido
+504,2019,A Star Is Born,1,8,Estados Unidos
+505,2019,Vice,1,8,Estados Unidos
+506,2020,Parásitos,4,6,Corea del Sur
+507,2020,1917,3,10,Reino Unido
+508,2020,Joker,2,11,Estados Unidos
+509,2020,Érase una vez en Hollywood,2,10,Estados Unidos
+510,2020,El Irlandés,0,10,Estados Unidos
+511,2020,Jojo Rabbit,1,6,Nueva Zelanda
+512,2020,Le Mans '66,2,4,Estados Unidos
+513,2020,Guasón,2,11,Estados Unidos
+514,2020,Le Mans '66,2,4,Estados Unidos
+515,2020,Jojo Rabbit,1,6,Nueva Zelanda
+516,2020,El Irlandés,0,10,Estados Unidos
+517,2020,Érase una vez en Hollywood,2,10,Estados Unidos
+518,2020,Joker,2,11,Estados Unidos
+519,2020,1917,3,10,Reino Unido
+520,2020,Parásitos,4,6,Corea del Sur
+521,2021,Nomadland,3,6,Estados Unidos
+522,2021,El Padre,2,6,Reino Unido
+523,2021,Judas and the Black Messiah,2,6,Estados Unidos
+524,2021,Mank,2,10,Estados Unidos
+525,2021,Minari,1,6,Estados Unidos
+526,2021,Sound of Metal,2,6,Estados Unidos
+527,2021,El juicio de los 7 de Chicago,1,6,Estados Unidos
+528,2021,Una joven prometedora,1,5,Reino Unido
+529,2021,Soul,2,3,Estados Unidos
+530,2021,Noticias del gran mundo,0,4,Estados Unidos
+531,2021,El agente topo,0,2,Chile
+532,2021,Another Round,1,2,Dinamarca
+533,2021,Emma,0,2,Reino Unido
+534,2021,Collective,0,2,Rumania
+535,2021,Una joven prometedora,1,5,Reino Unido
